@@ -5,7 +5,7 @@ Front-End Engineer
 ------------
 
 * ✉️  Você pode me contatar em [joaopedrocouto.dev@gmail.com](mailto:joaopedrocouto.dev@gmail.com)
-* 📚 Estudando JavaScript
+* 📚 Estudando TypeScript
 
 ### 🛠 Habilidades
 
